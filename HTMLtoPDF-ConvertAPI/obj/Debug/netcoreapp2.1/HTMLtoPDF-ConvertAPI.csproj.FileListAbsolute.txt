@@ -1,0 +1,13 @@
+E:\HTMLtoPDF-ConvertAPI\HTMLtoPDF-ConvertAPI\bin\Debug\netcoreapp2.1\HTMLtoPDF-ConvertAPI.deps.json
+E:\HTMLtoPDF-ConvertAPI\HTMLtoPDF-ConvertAPI\bin\Debug\netcoreapp2.1\HTMLtoPDF-ConvertAPI.runtimeconfig.json
+E:\HTMLtoPDF-ConvertAPI\HTMLtoPDF-ConvertAPI\bin\Debug\netcoreapp2.1\HTMLtoPDF-ConvertAPI.runtimeconfig.dev.json
+E:\HTMLtoPDF-ConvertAPI\HTMLtoPDF-ConvertAPI\bin\Debug\netcoreapp2.1\HTMLtoPDF-ConvertAPI.dll
+E:\HTMLtoPDF-ConvertAPI\HTMLtoPDF-ConvertAPI\obj\Debug\netcoreapp2.1\HTMLtoPDF-ConvertAPI.csproj.CoreCompileInputs.cache
+E:\HTMLtoPDF-ConvertAPI\HTMLtoPDF-ConvertAPI\obj\Debug\netcoreapp2.1\HTMLtoPDF-ConvertAPI.RazorAssemblyInfo.cache
+E:\HTMLtoPDF-ConvertAPI\HTMLtoPDF-ConvertAPI\obj\Debug\netcoreapp2.1\HTMLtoPDF-ConvertAPI.RazorAssemblyInfo.cs
+E:\HTMLtoPDF-ConvertAPI\HTMLtoPDF-ConvertAPI\obj\Debug\netcoreapp2.1\HTMLtoPDF-ConvertAPI.AssemblyInfoInputs.cache
+E:\HTMLtoPDF-ConvertAPI\HTMLtoPDF-ConvertAPI\obj\Debug\netcoreapp2.1\HTMLtoPDF-ConvertAPI.AssemblyInfo.cs
+E:\HTMLtoPDF-ConvertAPI\HTMLtoPDF-ConvertAPI\obj\Debug\netcoreapp2.1\HTMLtoPDF-ConvertAPI.RazorTargetAssemblyInfo.cache
+E:\HTMLtoPDF-ConvertAPI\HTMLtoPDF-ConvertAPI\bin\Debug\netcoreapp2.1\HTMLtoPDF-ConvertAPI.pdb
+E:\HTMLtoPDF-ConvertAPI\HTMLtoPDF-ConvertAPI\obj\Debug\netcoreapp2.1\HTMLtoPDF-ConvertAPI.dll
+E:\HTMLtoPDF-ConvertAPI\HTMLtoPDF-ConvertAPI\obj\Debug\netcoreapp2.1\HTMLtoPDF-ConvertAPI.pdb

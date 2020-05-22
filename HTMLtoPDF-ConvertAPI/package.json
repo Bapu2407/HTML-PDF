@@ -1,0 +1,16 @@
+{
+  "name": "htmltopdf-convertapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bapu\u001b[A.net core\u001b[A\u001b[A\u001b[A\u001b[A\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[DHTML to PDF convert\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B",
+  "license": "ISC",
+  "dependencies": {
+    "jsreport-core": "^2.8.1",
+    "jsreport-jsrender": "^2.1.1",
+    "jsreport-phantom-pdf": "^2.5.1"
+  }
+}
